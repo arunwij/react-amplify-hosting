@@ -12,6 +12,7 @@ dist
 dist-ssr
 *.local
 .yarn/*
+install-state.gz
 
 # Editor directories and files
 .vscode/*
@@ -23,3 +24,4 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.yarn/install-state.gz
